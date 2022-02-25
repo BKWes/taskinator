@@ -235,7 +235,7 @@ var loadTasks = function () {
             tasksCompletedEl.appendChild(listItemEl);
         }
         taskIdCounter++;
-        console.log(listItemEl);
+        // console.log(listItemEl);
     }; 
 };
 
